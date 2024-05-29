@@ -1,0 +1,35 @@
+.all{
+    border: 10px;
+    height: 1000%;
+    width: 50%;
+ 
+    background-color: beige;
+    position: relative;
+    left: 320px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.pre{
+    background-color: rgb(192, 231, 231);
+    border-radius: 10px;
+    padding: 20px;
+}
+h2{
+    color: brown;
+}
+tr{
+    width: 10px;
+}
+body{
+    background-color: rgb(236, 222, 159);
+}
+.tr{
+    text-align: center;
+}
+img{
+    width: 620px;
+    border-radius: 15px;
+    
+}
+
+
